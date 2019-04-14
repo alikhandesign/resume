@@ -146,7 +146,7 @@ article h3 {
 		width: 50rem;
 		margin: 1rem auto;
 		padding: 2rem;
-		box-shadow: 0 0 1rem .125rem #888888;
+		/* box-shadow: 0 0 1rem .125rem #888888; */
 	}
 
 	p {
