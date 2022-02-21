@@ -182,9 +182,9 @@ article h3 {
 		color: #89181a;
 		font-weight: 500;
 		font-style: normal;
-		font-size: 3rem;
+		font-size: 2.5rem;
 		font-variant: small-caps;
-		letter-spacing: .25rem;
+		letter-spacing: 0rem;
 		margin: 0;
 	}
 
@@ -192,9 +192,9 @@ article h3 {
 		color: #231f20;
 		font-variant: small-caps;
 		font-weight: 400;
-		font-size: 2rem;
+		font-size: 1.5rem;
 		font-style: normal;
-		letter-spacing: .75rem;
+		letter-spacing: 0rem;
 		margin: 0;
 	}
 
@@ -216,7 +216,7 @@ article h3 {
 	main h2 {
 		color: #89181a;
 		font-weight: 500;
-		font-size: 2rem;
+		font-size: 1.5rem;
 		font-style: normal;
 		font-variant: small-caps;
 		margin-top: 2rem;
