@@ -81,6 +81,14 @@ main h2 {
 	margin-bottom: .5rem;
 }
 
+.certTitle {
+	margin-top: .75rem;
+}
+
+.certName {
+	margin-bottom: 0;
+}
+
 article h3 {
 	color: #221E1F;	
 	font-size: 1rem;
